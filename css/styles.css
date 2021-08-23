@@ -1,0 +1,75 @@
+
+.imagem {
+        height: 170px;
+        display: flex;
+        float: right;
+}
+
+
+body {
+    margin: 0;
+    text-align: left;
+    background: rgb(240, 239, 239);
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1 {
+    text-align: left;
+    margin: 0;
+    font-weight: 400;
+}
+
+h3 { 
+    margin:0;
+    font-weight: 300;
+    display: inline-block;   
+
+}
+
+.box {
+    background: white;
+    width: 800px;
+    padding: 60px;
+    margin: 15px auto;
+    border-radius: 5px;  
+}
+
+ 
+.name {
+    text-align: left;
+    font-weight: 600;  
+    margin: 0;
+}
+
+.header-right{
+      width: 100%;
+      display: grid;
+      justify-items: end;
+  }
+
+.icon{
+    color: black;
+    font-size: 15px;
+    margin-right: 2px
+ }
+
+.grey {
+     background: gainsboro;
+     color: black;
+     padding: 1px;
+     border-radius: 5px;
+ }
+
+.table {
+    border-style: 1px solid black;
+    border-collapse: collapse;     
+}
+
+.th, td {
+    text-align: left;
+    padding: 5px 10px;
+}
+
+.tabela {
+    margin: 0 5%;
+}
