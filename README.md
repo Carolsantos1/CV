@@ -1,2 +1,2 @@
-# CV Básico em HTML e CSS
+# CV Básico 
 Desafio 1! Criação de CV
